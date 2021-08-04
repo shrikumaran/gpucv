@@ -25,6 +25,7 @@ python3 setup.py bdist_wheel
 import gpucv
 img = gpucv.readimg('index.jpeg')
 ```
+Colab noteobook: https://colab.research.google.com/drive/1o0LD56Qo88lZZtfVqshZL-rvCZUJ19ex?usp=sharing
 
 ### TODO
 - Basic IP stuff (grayscale,resize,threshold)
