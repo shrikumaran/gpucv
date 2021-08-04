@@ -1,5 +1,7 @@
 # gpucv
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o0LD56Qo88lZZtfVqshZL-rvCZUJ19ex?usp=sharing]
+
 An easy to use Pythonic image processing library accelerated with CUDA.
 
 ### Requirements 
