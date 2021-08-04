@@ -8,7 +8,9 @@ Python 3.7
 # Installation
 
 1. Using pip
-```pip3 install gpucv```
+```
+pip3 install gpucv
+```
 
 2. Building the project
 Clone the project to your local repo and run setup.py.
