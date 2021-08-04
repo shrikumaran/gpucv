@@ -2,10 +2,10 @@
 
 An easy to use Pythonic image processing library accelerated with CUDA.
 
-# Requirements 
+### Requirements 
 Python 3.7
 
-# Installation
+### Installation
 
 1. Using pip
 ```
@@ -19,13 +19,13 @@ git clone git@github.com:shrikumaran/gpucv.git
 python3 setup.py bdist_wheel
 ```
 
-# Example
+### Example
 ```python
 import gpucv
 img = gpucv.readimg('index.jpeg')
 ```
 
-# TODO
+### TODO
 - Basic IP stuff (grayscale,resize,threshold)
 - Implement filters (mean,gaussian and sobel)
 - Convolution kernels
