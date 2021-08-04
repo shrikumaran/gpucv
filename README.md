@@ -5,6 +5,8 @@ Have you used OpenCV on your CPU, and wanted to run it on GPU. Did you try insta
 Fret not gpucv is here to save the day. 
 Simple installation and runs as good as OpenCV on GPU.
 
+You need to still install all the Nvidia drivers if you don't have them.
+
 ### Requirements 
 Python 3.7
 
