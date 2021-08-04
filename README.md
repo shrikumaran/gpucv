@@ -1,6 +1,5 @@
 # gpucv
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrikumaran/gpucv/blob/main/gpucv.ipynb]
 
 An easy to use Pythonic image processing library accelerated with CUDA.
 
