@@ -1,7 +1,9 @@
 # gpucv
 
 
-Pythonic image processing library accelerated with CUDA.
+Have you used OpenCV on your CPU, and wanted to run it on GPU. Did you try installing OpenCV and get frustrated with its installation.
+Fret not gpucv is here to save the day. 
+Simple installation and runs as good as OpenCV on GPU.
 
 ### Requirements 
 Python 3.7
