@@ -1,7 +1,7 @@
 # gpucv
 
 
-An easy to use Pythonic image processing library accelerated with CUDA.
+Pythonic image processing library accelerated with CUDA.
 
 ### Requirements 
 Python 3.7
