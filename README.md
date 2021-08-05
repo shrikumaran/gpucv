@@ -9,6 +9,7 @@ You need to still install all the Nvidia drivers if you don't have them.
 
 ### Requirements 
 Python 3.7
+CUDA
 
 ### Installation
 
