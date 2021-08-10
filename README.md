@@ -31,7 +31,7 @@ import gpucv
 img = gpucv.readimg('index.jpeg')
 sobel = gpucv.sobel(img)
 ```
-Colab noteobook: https://colab.research.google.com/drive/1o0LD56Qo88lZZtfVqshZL-rvCZUJ19ex?usp=sharing
+<!--Colab noteobook: https://colab.research.google.com/drive/1o0LD56Qo88lZZtfVqshZL-rvCZUJ19ex?usp=sharing-->
 
 ### TODO
 - Basic IP stuff (grayscale,resize,threshold)
