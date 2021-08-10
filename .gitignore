@@ -1,0 +1,8 @@
+*.png
+*.bmp
+*.jpg
+/build
+/dist
+*.egg-info
+test.py
+/pybind11
