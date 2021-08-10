@@ -1,10 +1,15 @@
 # gpucv
 
 
-An easy to use Pythonic image processing library accelerated with CUDA.
+Have you used OpenCV on your CPU, and wanted to run it on GPU. Did you try installing OpenCV and get frustrated with its installation.
+Fret not gpucv is here to save the day. 
+Simple installation and runs as good as OpenCV on GPU.
+
+You need to still install all the Nvidia drivers if you don't have them.
 
 ### Requirements 
-Python 3.7
+- Python 3.7
+- CUDA
 
 ### Installation
 
@@ -25,6 +30,7 @@ python3 setup.py bdist_wheel
 import gpucv
 img = gpucv.readimg('index.jpeg')
 ```
+Colab noteobook: https://colab.research.google.com/drive/1o0LD56Qo88lZZtfVqshZL-rvCZUJ19ex?usp=sharing
 
 ### TODO
 - Basic IP stuff (grayscale,resize,threshold)
