@@ -19,6 +19,7 @@ pip3 install gpucv
 ```
 
 2. Building the project
+
 Clone the project to your local repo and run setup.py.
 ```
 git clone git@github.com:shrikumaran/gpucv.git
