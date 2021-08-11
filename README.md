@@ -1,6 +1,6 @@
 # gpucv
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrikumaran/gpucv/blob/main/gpucv.ipynb)
+<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrikumaran/gpucv/blob/main/gpucv.ipynb)-->
 
 Have you used OpenCV on your CPU, and wanted to run it on GPU. Did you try installing OpenCV and get frustrated with its installation.
 Fret not gpucv is here to save the day. 
@@ -33,7 +33,7 @@ import gpucv
 img = gpucv.readimg('index.jpeg')
 sobel = gpucv.sobel(img)
 ```
-<!--Colab noteobook: https://colab.research.google.com/drive/1o0LD56Qo88lZZtfVqshZL-rvCZUJ19ex?usp=sharing-->
+Colab noteobook: https://colab.research.google.com/drive/1o0LD56Qo88lZZtfVqshZL-rvCZUJ19ex?usp=sharing
 
 ### TODO
 - Basic IP stuff (grayscale,resize,threshold)
