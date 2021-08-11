@@ -97,7 +97,7 @@ setup(
           		'https://github.com/nothings/stb/tarball/master'],
 
 
-    version='0.0.4.2',
+    version='0.0.4.3',
     url='http://example.com/',
     author='Shrikumaran PB',
     author_email='pbshrikumaran@gmail.com',
