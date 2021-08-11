@@ -33,7 +33,7 @@ import gpucv
 img = gpucv.readimg('index.jpeg')
 sobel = gpucv.sobel(img)
 ```
-![original](/pics/inedx.bmp)
+![original](/pics/index.bmp)
 ![sobel](/pics/sobel.png)
 
 Colab noteobook: https://colab.research.google.com/drive/1o0LD56Qo88lZZtfVqshZL-rvCZUJ19ex?usp=sharing
