@@ -69,8 +69,8 @@ int dest_size = (height)*(width);
 int *l_result_array = 0; 
 l_result_array = new int[dest_size]; 
 
-int src_height = height+2;
-int src_width = width+2;
+int src_height = height;//+2;
+int src_width = width;//+2;
 int src_size = src_height*src_width;
 
 int* l_source_array = 0; 
@@ -78,10 +78,11 @@ l_source_array = new int[src_size];
 
 for (auto row = 0; row < src_height; row++) {    
     for (auto col = 0; col < src_width; col++) { 
+/*
       if (row == 0 || row == src_height-1 || col == 0 || col == src_width-1){
       l_source_array[row * src_width + col] = 0;}
-      else{
-      l_source_array[row * src_width + col] = img.at(0,row-1,col-1);}
+      else{*/
+      l_source_array[row * src_width + col] = img.at(0,row,col);//img.at(0,row-1,col-1);//}
     } 
 } 
 
